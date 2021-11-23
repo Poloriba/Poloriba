@@ -1,4 +1,4 @@
-<a href="https://github.com/Poloriba/%22%3E
+<a href="https://github.com/Poloriba/%22%3E"
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Poloriba&show_icons=true&theme=tokyonight" />
 </a>
 
