@@ -4,6 +4,7 @@
 - 👀 I’m interested in Video game, Web devellopement and Computer science.
 - 🌱 I’m currently learning Computer Science at Epitech France
 - 📫 You can reach me at paul.riba@epiteche.eu
+- Look at my CV here ---> https://poloriba.github.io/online-cv/
 
 <!---
 Poloriba/Poloriba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
