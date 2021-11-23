@@ -1,4 +1,4 @@
-<a <img align="center" src="https://github-readme-stats.vercel.app/api?username=Poloriba&show_icons=true&theme=tokyonight" /> </a>
+<a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Poloriba&show_icons=true&theme=tokyonight" /> </a>
 
 - 👋 Hi, I’m @Poloriba
 - 👀 I’m interested in Video game, Web devellopement and Computer science.
