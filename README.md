@@ -2,6 +2,7 @@
 - 👋 Hi, I’m @Poloriba
 - 👀 I’m interested in Video game, Web devellopement and Computer science.
 - 🌱 I’m currently learning Computer Science at Epitech France
+- You can look at my gitlab to! : https://gitlab.com/Poloriba
 - 📫 You can reach me at paul.riba@epiteche.eu
 - Look at my CV here ---> https://poloriba.github.io/online-cv/
 
