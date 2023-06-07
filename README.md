@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @Poloriba
+- 👋 Hi, I’m Paul Riba
 - 👀 I’m interested in Video game, Web devellopement and Computer science.
 - 🌱 I’m currently learning Computer Science at Epitech France
 - You can look at my gitlab to! : https://gitlab.com/Poloriba
