@@ -1,7 +1,8 @@
 
 - 👋 Hi, I’m Paul Riba
-- 👀 I’m interested in Video game, Web devellopement and Computer science.
-- 🌱 I’m currently learning Computer Science at Epitech France
+- 👀 I’m interested in Web devellopement, Software devellopement and Computer science in general.
+- ✨ I'm enjoying Asian culture, Art, Manga and Video games.
+- 🌱 I’m currently learning Computer Science at Epitech, And working for Sopra Steria France
 - You can look at my gitlab to! : https://gitlab.com/Poloriba
 - 📫 You can reach me at paul.riba@epiteche.eu
 - Look at my CV here ---> https://poloriba.github.io/online-cv/
